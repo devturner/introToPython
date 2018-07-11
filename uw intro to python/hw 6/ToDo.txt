@@ -1,0 +1,5 @@
+Homework,High
+Feed The Cat,High
+Take Out the Trash,High
+Get this done,High
+Dishes,Low

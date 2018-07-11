@@ -1,0 +1,6 @@
+Homework,High
+this 2,high
+RUN HOME,HIGH
+Laundry,High
+Running,Med
+HHHH,LOW

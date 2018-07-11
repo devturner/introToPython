@@ -1,0 +1,15 @@
+Name,Value
+Toaster,20
+Blender,30
+Chairs,$45 
+Sofa,500 
+chair,45 
+soda,3333 
+Fans,30 
+food,50 
+hats,25 
+dog,65 
+keys,66 
+hands,100 
+Use quit() or Ctrl-D (i.e. EOF) to exit,Use exit() or Ctrl-D (i.e. EOF) to exit 
+Use exit() or Ctrl-D (i.e. EOF) to exit,Use exit() or Ctrl-D (i.e. EOF) to exit 

@@ -1,0 +1,7 @@
+Chris Turner
+June 26, 14
+Session 1 Homework
+
+What is a batch file and how is it used?
+
+A batch file is a small set of instructions that the user can create to automate command line tasks. These can be simple and straightforward, such as open an application, or more complex and include loops or conditional statements (Wikipedia). The most well know batch file was the autoexe file that was used when a computer was first starting and booting into Windows. They can be used to automate many tasks that could take much more time within a GUI setting. 
